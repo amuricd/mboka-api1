@@ -1,0 +1,6 @@
+{
+  "name": "mboka-api1",
+  "main": "worker.js",
+  "compatibility_date": "2025-09-01",
+  "workers_dev": true
+}
